@@ -22,7 +22,8 @@
     "canUpdateUI": true,
     "canvasWidth": 1400,
     "children": [
-        "Button0197fab2fdfe946"
+        "Button0197fab2fdfe946",
+        "Button025a0c4358cf642"
     ],
     "containerweight": 100,
     "currentLocale": null,
